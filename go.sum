@@ -1,4 +1,4 @@
-github.com/syntricorp/go-cleanhttp v0.5.0 h1:UvizsatIzF0hYtOEVmdUgjL4OoVqQp79aFdWeXxN7Dw=
-github.com/syntricorp/go-cleanhttp v0.5.0/go.mod h1:lrCHjOI+BA3yjQriZ3L7XSAS2pPEprWZNYOzqzTDwT0=
-github.com/syntricorp/go-uuid v1.0.0 h1:s8fwUk5SLKldtiHGU0S2VStnApu8GlfMKKjhaZaEbv4=
-github.com/syntricorp/go-uuid v1.0.0/go.mod h1:47lW8+iD9KaXgqg44fQjH18T+9LWhVo1K3Fje1RMiXM=
+github.com/syntricorp/go-cleanhttp v0.5.2 h1:7APOfIsnJHAwwmYPyKcNiatB2Z0TsBgz5IURqtxokwI=
+github.com/syntricorp/go-cleanhttp v0.5.2/go.mod h1:hGSWmQfTKfBmLQxdtbWyYMOQ25S3GOlGAEkMno5dghY=
+github.com/syntricorp/go-uuid v1.0.3 h1:bd/+82iht+/VBtkJi7ekC8QVeZs5XoQ/mYq/GB0bwBk=
+github.com/syntricorp/go-uuid v1.0.3/go.mod h1:47lW8+iD9KaXgqg44fQjH18T+9LWhVo1K3Fje1RMiXM=
