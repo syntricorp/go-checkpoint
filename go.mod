@@ -1,6 +1,6 @@
 module github.com/syntricorp/go-checkpoint
 
-go 1.22.2
+go 1.23.0
 
 require (
 	github.com/syntricorp/go-cleanhttp v0.5.0
